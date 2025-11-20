@@ -1,6 +1,8 @@
 # 2025.2
 
 ## Changes
+- Speed Enchantment
+	- Now deals (1 / 10) damage to boots instead of 1 damage while sprinting
 - Changed Homepage URL to the Gamebanana page
 
 # 2025.1
