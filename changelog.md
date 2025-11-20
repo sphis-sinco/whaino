@@ -1,3 +1,8 @@
+# 2025.2
+
+## Changes
+- Changed Homepage URL to the Gamebanana page
+
 # 2025.1
 
 ## Additions
